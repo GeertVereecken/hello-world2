@@ -1,4 +1,4 @@
-/* this is a simple data step */
+/* this is a simple SAS data step */
 data _null_;
   x=1;
   y=2;
